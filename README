@@ -1,0 +1,12 @@
+You need
+  unix
+  gcc
+  pidgin
+
+howto build and install
+  $ make
+  $ sudo make install
+
+howto activate 
+  Go to tools->plugins
+  check Statusbar hider
